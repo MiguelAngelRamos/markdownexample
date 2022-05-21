@@ -3,3 +3,4 @@
 - Android
 - React Native
 - Ionic
+- Flutter
