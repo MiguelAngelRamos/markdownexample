@@ -1,6 +1,6 @@
 ## Tecnologias para programar aplicaciones moviles
 
-- Android
+- Android con Java
 - React Native
 - Ionic
 - Flutter
